@@ -7,11 +7,11 @@
 - 📫 You can reach out to me at pr7prashant@gmail.com
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr7prashant&show_icons=true&locale=en&layout=compact" alt="pr7prashant" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr7prashant&show_icons=true&locale=en" alt="pr7prashant" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr7prashant&" alt="pr7prashant" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr7prashant&show_icons=true&locale=en&layout=compact" alt="pr7prashant" /></p>
 
 
 <!---
