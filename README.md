@@ -14,6 +14,14 @@
 Want to know more about me? [Check out my portfolio.](https://prashantrawat.com/)
 
 
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+
+
 ## &#x1f4c8; GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr7prashant&show_icons=true&locale=en" alt="pr7prashant" /></p>
