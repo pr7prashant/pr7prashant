@@ -13,6 +13,8 @@
 
 Want to know more about me? [Check out my portfolio.](https://prashantrawat.com/)
 
+<br>
+<br>
 
 ## 💼 Skills
 
@@ -21,6 +23,8 @@ Want to know more about me? [Check out my portfolio.](https://prashantrawat.com/
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 
+<br>
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
