@@ -48,6 +48,8 @@ Want to know more about me? [Check out my portfolio.](https://prashantrawat.com/
 
 ## &#x1f4c8; GitHub Stats
 
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=pr7prashant" alt="pr7prashant" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr7prashant&show_icons=true&locale=en" alt="pr7prashant" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr7prashant&" alt="pr7prashant" /></p>
