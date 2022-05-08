@@ -36,6 +36,7 @@ Want to know more about me? [Check out my portfolio.](https://prashantrawat.com/
 
 <br>
 
+![](https://img.shields.io/badge/Tools-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
