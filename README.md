@@ -45,7 +45,7 @@ Want to know more about me? [Check out my portfolio.](https://prashantrawat.com/
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-BitBucket-informational?style=flat&logo=BitBucket&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0D76A8)
 
 <br>
