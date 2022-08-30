@@ -1,6 +1,6 @@
 [![Prashant's GitHub Banner](./assets/banner.jpg)](https://prashantrawat.com/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/pr7prashant/pr7prashant)](https://prashantrawat.com/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Prashant-green?style=flat&logo=react&logoColor=white&color=0D76A8)](https://www.prashantrawat.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pr7prashant/)
 [![Leetcode Badge](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpr7prashant&logo=leetcode&logoColor=yellow)](https://leetcode.com/pr7prashant/)
 [![Stackoverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/8044582?label=Stackoverflow&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/8044582/pr7)
