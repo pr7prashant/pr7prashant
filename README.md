@@ -44,7 +44,7 @@ I am an all round web developer with good knowledge of front-end techniques. I l
 
 <br>
 
-## Open Source Contributions
+## 👨‍💻 Open Source Contributions
 <table width="100%">
     <thead>
         <th span="col">Projects</th>
