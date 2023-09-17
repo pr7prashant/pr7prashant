@@ -47,10 +47,10 @@ I am an all round web developer with good knowledge of front-end techniques. I l
 ## Open Source Contributions
 <table width="100%">
     <thead>
-        <th span="col">Project</th>
-        <th span="col">Issue</th>
-        <th span="col">Pull Request</th>
-	<th span="col">Language</th>
+        <th span="col">Projects</th>
+        <th span="col">Issues</th>
+        <th span="col">Pull Requests</th>
+	<th span="col">Languages</th>
     </thead>
     <tbody>
         <tr>
@@ -142,6 +142,20 @@ I am an all round web developer with good knowledge of front-end techniques. I l
                 </a>
             </td>
 	    <td>Javascript</td>
+        </tr>
+	<tr>
+            <th span="row"><a href="https://github.com/badges/shields">React Spectrum</a></th>
+            <td></td>
+            <td>
+		<a href="https://github.com/adobe/react-spectrum/pull/5012">
+                    <img src="https://img.shields.io/github/pulls/detail/state/adobe/react-spectrum/5012" />
+                </a>
+		<br />
+                <a href="https://github.com/adobe/react-spectrum/pull/4943">
+                    <img src="https://img.shields.io/github/pulls/detail/state/adobe/react-spectrum/4943" />
+                </a>
+            </td>
+	    <td>Typescript. Javascript, MDX, CSS, Handlebards, HTML</td>
         </tr>
     </tbody>
 </table>
