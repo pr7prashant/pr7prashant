@@ -50,6 +50,7 @@ I am an all round web developer with good knowledge of front-end techniques. I l
         <th span="col">Project</th>
         <th span="col">Issue</th>
         <th span="col">Pull Request</th>
+	<th span="col">Language</th>
     </thead>
     <tbody>
         <tr>
@@ -140,6 +141,7 @@ I am an all round web developer with good knowledge of front-end techniques. I l
                     <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/7999" />
                 </a>
             </td>
+	    <td>Javascript</td>
         </tr>
     </tbody>
 </table>
