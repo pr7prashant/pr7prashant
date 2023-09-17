@@ -157,6 +157,26 @@ I am an all round web developer with good knowledge of front-end techniques. I l
             </td>
 	    <td>Typescript. Javascript, MDX, CSS, Handlebards, HTML</td>
         </tr>
+	<tr>
+            <th span="row"><a href="https://github.com/remix-run/remix">Remix</a></th>
+            <td>
+		<a href="https://github.com/remix-run/remix/issues/1010">
+                    <img src="https://img.shields.io/github/issues/detail/state/remix-run/remix/1010" />
+                </a>
+	    </td>
+            <td></td>
+	    <td>Typescript, Javascript</td>
+        </tr>
+	<tr>
+            <th span="row"><a href="https://github.com/kubernetes-client/javascript">kubernetes-client/javascript</a></th>
+            <td></td>
+	    <td>
+		<a href="https://github.com/kubernetes-client/javascript/pull/750">
+                    <img src="https://img.shields.io/github/pulls/detail/state/kubernetes-client/javascript/750" />
+                </a>
+	    </td>
+	    <td>Typescript</td>
+        </tr>
     </tbody>
 </table>
 
