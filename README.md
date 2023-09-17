@@ -44,6 +44,37 @@ I am an all round web developer with good knowledge of front-end techniques. I l
 
 <br>
 
+## Open Source Contributions
+<table width="100%">
+	<thead>
+		<th span="col">Project</th>
+    <th span="col">Issue</th>
+		<th span="col">Pull Request</th>
+	</thead>
+	<tbody>
+		<tr>
+			<th span="row"><a href="https://github.com/badges/shields">Shields</a></th>
+			<td>
+				<a href="https://github.com/badges/shields/issues/9501">
+					<img src="https://img.shields.io/github/issues/detail/state/badges/shields/9501">
+				</a>
+        <br>
+				<a href="https://github.com/badges/shields/issues/9559">
+					<img src="https://img.shields.io/github/issues/detail/state/badges/shields/9559">
+				</a>
+			</td>
+			<td>
+        <a href="https://github.com/badges/shields/pull/9502">
+					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9502">
+				</a>
+        <br>
+				<a href="https://github.com/badges/shields/pull/9580">
+					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9580">
+				</a>
+      </td>
+		</tr>
+	</tbody>
+</table>
 
 <!---
 pr7prashant/pr7prashant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
