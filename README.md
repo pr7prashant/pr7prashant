@@ -144,7 +144,7 @@ I am an all round web developer with good knowledge of front-end techniques. I l
 	    <td>Javascript</td>
         </tr>
 	<tr>
-            <th span="row"><a href="https://github.com/badges/shields">React Spectrum</a></th>
+            <th span="row"><a href="https://github.com/adobe/react-spectrum">React Spectrum</a></th>
             <td></td>
             <td>
 		<a href="https://github.com/adobe/react-spectrum/pull/5012">
