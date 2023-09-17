@@ -46,35 +46,104 @@ I am an all round web developer with good knowledge of front-end techniques. I l
 
 ## Open Source Contributions
 <table width="100%">
-	<thead>
-		<th span="col">Project</th>
-    <th span="col">Issue</th>
-		<th span="col">Pull Request</th>
-	</thead>
-	<tbody>
-		<tr>
-			<th span="row"><a href="https://github.com/badges/shields">Shields</a></th>
-			<td>
-				<a href="https://github.com/badges/shields/issues/9501">
-					<img src="https://img.shields.io/github/issues/detail/state/badges/shields/9501">
-				</a>
-        <br>
-				<a href="https://github.com/badges/shields/issues/9559">
-					<img src="https://img.shields.io/github/issues/detail/state/badges/shields/9559">
-				</a>
-			</td>
-			<td>
-        <a href="https://github.com/badges/shields/pull/9502">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9502">
-				</a>
-        <br>
-				<a href="https://github.com/badges/shields/pull/9580">
-					<img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9580">
-				</a>
-      </td>
-		</tr>
-	</tbody>
+    <thead>
+        <th span="col">Project</th>
+        <th span="col">Issue</th>
+        <th span="col">Pull Request</th>
+    </thead>
+    <tbody>
+        <tr>
+            <th span="row"><a href="https://github.com/badges/shields">Shields</a></th>
+            <td>
+                <a href="https://github.com/badges/shields/issues/9559">
+                    <img src="https://img.shields.io/github/issues/detail/state/badges/shields/9559" />
+                </a>
+                <br />
+                <a href="https://github.com/badges/shields/issues/9501">
+                    <img src="https://img.shields.io/github/issues/detail/state/badges/shields/9501" />
+                </a>
+            </td>
+            <td>
+		<a href="https://github.com/badges/shields/pull/9580">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9580" />
+                </a>
+		<br />
+                <a href="https://github.com/badges/shields/pull/9549">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9549" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/9502">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9502" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/9495">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9495" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/9411">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9411" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/9197">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9197" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/9188">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9188" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/9118">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/9118" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/8787">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/8787" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/8766">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/8766" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/8396">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/8396" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/8380">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/8380" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/8373">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/8373" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/8160">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/8160" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/8079">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/8079" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/8027">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/8027" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/8003">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/8003" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/8000">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/8000" />
+                </a>
+		<br />
+		<a href="https://github.com/badges/shields/pull/7999">
+                    <img src="https://img.shields.io/github/pulls/detail/state/badges/shields/7999" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
 </table>
+
 
 <!---
 pr7prashant/pr7prashant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
