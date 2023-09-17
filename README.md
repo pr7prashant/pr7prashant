@@ -6,10 +6,7 @@
 [![Stackoverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/8044582?label=Stackoverflow&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/8044582/pr7)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/pr7_prashant)
 
-
 I am an all round web developer with good knowledge of front-end techniques. I love learning different technologies and using them to make well structured applications. I also like optimizinging applications and fixing minor issues which helps in the long run. I have experience working on projects in a team as well as individually. Other than programming, I spend most of my time playing/watching football.
-
-📫 You can reach out to me at pr7prashant@gmail.com
 
 <br>
 
