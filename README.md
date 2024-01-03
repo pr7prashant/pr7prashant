@@ -151,6 +151,10 @@ I am an all round web developer with good knowledge of front-end techniques. I l
                 <a href="https://github.com/adobe/react-spectrum/pull/4943">
                     <img src="https://img.shields.io/github/pulls/detail/state/adobe/react-spectrum/4943" />
                 </a>
+		<br />
+                <a href="https://github.com/adobe/react-spectrum/pull/5592">
+                    <img src="https://img.shields.io/github/pulls/detail/state/adobe/react-spectrum/5592" />
+                </a>
             </td>
 	    <td>Typescript. Javascript, MDX, CSS, Handlebards, HTML</td>
         </tr>
